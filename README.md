@@ -1,1 +1,0 @@
-# JavaScript_Sweet_Alerts
